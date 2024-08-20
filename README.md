@@ -1,0 +1,1 @@
+This repository contains a fully responsive cafe web application built using the Django framework. The application features a modern and user-friendly interface, allowing users to explore the Caffe Shop. It showcases fundamental web development skills, including HTML, CSS, JavaScript, and Django backend integration.
